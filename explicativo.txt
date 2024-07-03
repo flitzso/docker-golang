@@ -1,0 +1,5 @@
+docker build -t meu-app-golang . [construa a imagem do seu script]
+docker run meu-app-golang [executa o container aonde esta o seu script]
+
+Salve a imagem do seu projeto no Docker Hub assim qualquer um pode rodar
+de qualquer lugar.
